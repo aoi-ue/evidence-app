@@ -51,7 +51,7 @@ This serverless web application is used by Sherlock's blue team to import eviden
 2. Clone this repository to your local system/CloudShell and `cd` to the newly-cloned directory.
 
     ```bash
-    git clone https://github.com/bluemountaincyber/evidence-app.git
+    git clone https://github.com/aoi-ue/evidence-app
     cd evidence-app
     ```
 
